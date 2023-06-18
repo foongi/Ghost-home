@@ -1,0 +1,2 @@
+# Ghost-home
+Github Pages
